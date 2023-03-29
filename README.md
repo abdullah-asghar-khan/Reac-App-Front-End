@@ -46,7 +46,10 @@
 
 # 📖 Hello Back End ROR <a name="about-project"></a>
 
-**Hello Front END ROR** is a Rails back-end that serves as an API with an endpoint displaying a random message.
+**Hello Front END ROR**
+
+## Back-end App
+> [Back-end](https://github.com/Abdullah2213565/rails-react-app2)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -87,8 +90,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-- Ruby
-- Rails
+- React
 
 ### Setup
 
